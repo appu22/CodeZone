@@ -1,0 +1,92 @@
+Application ----1991517623    RN7P7U3E
+
+CORA java 
+JRE , JDK , JVM 
+	Cora java--- Here we have to discuss about java 
+	
+	What is java ?
+->	Ans : Java is high level programming language. 
+->  java is a wora or cora means "write once run anywhere" or "compile once run anywher".
+->	It's developed by "JAMES GOSLING" with his "Team" under the project of 
+	"Greek" an organzation of "sun microsystem".
+	
+	What is use of java ?
+->  JAVA is mainly used to store the "DATA" and "MANIPULATE DATA".
+->	It's used to develop stand alone application,web application and utility application or micro application or
+	android appication.	
+->	java is platform independent	
+	
+	JDK,JRE ,JVM
+	JDK-JAVA DEVELOPMENT KIT
+		It's Having JRE and Development tools.
+		JDK = JRE+development tools.
+		To develop the java application or modify the java java appication JDK is manditory.
+		it's physical excists
+		
+	JRE-JAVA RUN ENVIRONMENT 
+		JRE contains set of Libraries at jvm uses at the runtime.
+		JRE=JVM+Libraries
+		TO run the java appication it's JRE minimum required.
+		it's physical excists
+		it's dependent
+		
+	JVM -JAVA VIRTUAL  MACHINE 
+		It's not physical excists.
+		JVM provides runtime enviorment in which java bytecode can be executed.
+		
+		Tasks of JVM
+	->	Loads the byte code 
+		verify the byte code
+		executes byte code 
+		provide the run time enviorment
+		JVM platform dependent.
+		
+	Points--->when the code will be compiled  bytecode/class file will be generated  
+
+Data Types and Variables 
+	Datatypes- it is used repersent the type of data to stored in the memory.
+	There are Two types od DT
+	primitive DT-[byte-1,boolean 1 bit,short 2 byte,char 2 byte ,int 4 byte ,long 8 byte ,float 4 byte ,double 8 byte]
+	Non Primitive DT-[String,Arrays,Class,System etc..]
+	
+	Variables 
+	Its one which holds the value or container, which can used in later stage of program.
+	There are 4 types 
+	Local varibale-
+	instance varibale
+	Static varibale
+	parameter varibale
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
